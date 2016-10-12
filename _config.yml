@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Michael Gecht"
-  avatar           : "bio-photo.jpg"
-  bio              : "I do stuff."
+  avatar           : "counting-sheep.jpg"
+  bio              : "Biochemist by day. Script kiddie by night. Idiotic all along."
   location         : "Frankfurt, Germany"
   email            :
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "_mimischi"
+  twitter          : "_mischi"
   vine             :
   weibo            :
   xing             :
