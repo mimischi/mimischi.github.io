@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "idiotism.us"
-title_separator          : "-"
+title                    : "idiotism"
+title_separator          : "|"
 name                     : "Michael Gecht"
 description              : "idiots are found everywhere. especially here."
 url                      : "https://mimischi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
