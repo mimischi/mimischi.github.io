@@ -52,7 +52,7 @@ In [4]: treant.draw()
 **Note:** ``Treant.94847b1d-7ef8-490a-a381-c509fd0b1ac0.json`` is a state file created by ``datreant.core`` storing information about the current ``Treant`` object. [More information here](http://datreant.readthedocs.io/en/latest/treants.html).
 {: .notice}
 
-This is neat. We immediately get to retrieve a list of all files inside this path, but we are only interested in the .txt files inside this folder.
+This is neat. We immediately get to retrieve a list of all files inside this path, but we are only interested in the ``.txt`` files inside this folder.
 
 To filter out everything else we just [glob](https://en.wikipedia.org/wiki/Glob_(programming)) for files ending with ``.txt``. Afterwards we use the ``abspaths`` method to retrieve the absolute file paths, instead of the ``Leaf`` objects that we would get otherwise.
 
